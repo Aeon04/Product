@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Petfaves Products</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet">
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body class="bg-[#fdefe4]">
+  <script src="script.js"></script>
+    <div class="flex justify-center py-10">
+        <h1 class="text-5xl font-bold title text-brown-800">Petfaves Product</h1>
+    </div>
+
+    <div class="container mx-auto px-4 lg:px-8 flex gap-8">
+        <!-- Sidebar for categories -->
+        <aside class="w-1/4 hidden lg:block">
+          <div id="category-list" class="space-y-4">
+            <!-- Categories will be dynamically added here -->
+          </div> 
+        
+           
+        </aside>
+
+        <!-- Main content for products -->
+        <main class="flex-1">
+            <!--div class="flex justify-end mb-8">
+                <button class="bg-orange-500 text-white px-6 py-3 rounded-full font-semibold hover:bg-orange-600">Default Sorting</button>
+            </div-->
+            <div class="grid gap-6 grid-cols-1 sm:grid-cols-2 lg:grid-cols-3" id="product-container">
+                <!-- Product cards will be dynamically inserted here -->
+            </div>
+        </main>
+    </div>
+    
+    <script src="script.js"></script>
+</body>
+</html>

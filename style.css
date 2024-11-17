@@ -1,0 +1,186 @@
+body {
+    font-family: 'Poppins', sans-serif;
+    padding: 0 20px 100px;
+    padding: 0 20px; 
+    line-height: 1.6;
+    color: #333; 
+    margin-bottom: 300px; 
+}
+
+
+.title {
+    font-family: 'Comic Sans MS', sans-serif;
+    color: #2c3e50; 
+    font-size: 2rem;
+    text-align: center;
+    margin-bottom: 20px;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+}
+
+.product-card {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%; 
+    max-width: 350px; 
+    height: auto; 
+    border-radius: 15px; 
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1); 
+    overflow: hidden; 
+    transition: transform 0.3s ease-in-out; 
+    padding: 20px;
+    margin: 20px auto; 
+}
+
+.product-card:hover {
+   
+    box-shadow: 0 0 26px 20px rgba(0, 0, 0, 0.2) ; 
+}
+
+.product-card img {
+    max-width: 100%;
+    height: auto; 
+    object-fit: cover; 
+    border-radius: 10px; 
+    transition: transform 0.3s ease-in-out, box-shadow 0.3s ease-in-out;
+}
+
+.product-card img:hover {
+    transform: scale(1.1); 
+    box-shadow: 0 6px 10px rgba(0, 0, 0, 0.2); 
+}
+
+.product-card h2 {
+    font-size: 1.25rem;
+    font-weight: bold;
+    color: #333;
+    margin-top: 10px;
+    text-align: center;
+}
+
+.product-card p {
+    font-size: 0.875rem;
+    color: #555;
+    margin: 10px 0;
+    line-height: 1.5;
+    text-align: center;
+}
+
+.product-card .button-container {
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+    margin-top: 10px;
+}
+
+button {
+    padding: 8px 16px; 
+    font-size: 0.9rem; 
+    border-radius: 20px;
+    cursor: pointer;
+    transition: background-color 0.3s ease, transform 0.3s ease-in-out;
+}
+
+button.bg-orange-500 {
+    background-color: #ff5722;
+    color: #fff;
+}
+
+button.bg-orange-500:hover {
+    background-color: #e64a19;
+    transform: scale(1.05);
+}
+
+button:focus {
+    outline: none;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); 
+}
+
+.product-card .button-container button {
+    width: auto; 
+}
+
+.product-card .button-container button:hover {
+    transform: scale(1.1);
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+}
+
+.category-button {
+    transition: all 0.3s ease; 
+}
+
+.category-button:hover {
+    background-color: #eb6913; 
+    transform: scale(1.05); 
+    cursor: pointer; }
+
+
+.category-button:hover {
+    color: white;
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1); 
+}
+
+.category-button.active {
+    background-color: #eb6913;
+    color: white;
+    transform: scale(1.05);
+    box-shadow: 0px 4px 12px rgba(0, 0, 0, 0.2);
+}
+.product.card {
+    background-color: #64b268; 
+    border-radius: 1rem; 
+    padding: 1.5rem; 
+    text-align: center; 
+    box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1); 
+    color: rgb(35, 34, 34); 
+}
+.mb-4 {
+    color: #333;  /* Dark gray color for better contrast */
+    text-align: center;
+    font-size: 40px; /* Slightly smaller font size for balance */
+    font-weight: bold;  /* To make the text stand out more */
+    line-height: 1.2;  /* Improved line height for better readability */
+    letter-spacing: 2px;  /* Adding letter spacing for a more elegant look */
+    text-transform: capitalize; /* Capitalize for a more formal appearance */
+    margin-bottom: 20px; /* Slight margin space for balance */
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; /* A modern and clean font */
+    transition: color 0.3s ease-in-out, transform 0.3s ease; /* Smooth hover transition */
+}
+.mb-4:hover {
+    color: #2d1607; 
+    transform: scale(1.05); 
+}
+
+.text-light {
+    color: rgba(255, 255, 255, 0.9); 
+}
+.text-start {
+    text-align: left; 
+}
+.text-white {
+    color: #fff; 
+}
+
+.product.img {
+    background-color: #fde7d8;
+    max-height: 300px; 
+    object-fit: cover; 
+    border-radius: 1rem; 
+}
+.container{
+    background-color: bla;
+}
+.custom-bg {
+    background-color: #64b268 !important; 
+    border-radius: 1rem;
+    padding: 1.5rem; 
+    color: white; 
+}
+.d-flex.active {
+    background-color: #eb6913;
+    color: white;
+    transform: scale(1.05);
+    box-shadow: 0px 4px 12px rgba(0, 0, 0, 0.2);
+}

@@ -1,0 +1,364 @@
+  {
+    "petProducts": [
+      { 
+        
+        "category": "Hygiene",
+        "products": [
+            {
+              "id": 1,
+              "name": "Eco Bowl",
+              "description": "Eco-friendly pet bowl made from recycled plastic, available in multiple sizes.",
+              "description2": "Our Eco Pet Bowl Series is crafted with eco-conscious materials for a better world for our beloved pets. These practical, durable bowls are part of our environmentally responsible product line, featuring:\n\n- 🌱 Premium recycled plastic bottles for long-lasting use\n- 🌱 100% biodegradable composition\n- 🌱 Eco-sustainable rubber\n- 🌱 Low CO2 footprint\n- 🌱 Thoughtfully designed in Belgium!",
+              "image": "https://happypetproducts.com/wp-content/uploads/2023/07/SINGLE-BOWL-_PNG.png",
+              "features": ["Biodegradable", "Eco-sustainable rubber", "Low CO2 footprint"],
+              "prices": [
+                { "size": "Small",  "price": 150 },
+                { "size": "Medium",  "price": 250 },
+                { "size": "Large",  "price": 300 }
+              ]
+          },
+          {
+            "id": 2,
+            "name": "Scilly Mat for Pets",
+            "description": "Comfort mat for pets, available in various sizes for relaxation and hygiene.",
+            "description2" : " Scilly Mats for Pets are a great alternative for pets who prefer not to lounge in their beds! They are non slip and super comfortable!\n\n S: 70×44 cm\n M: 85×50.5 cm \nL: 103×64 cm",
+            "prices": [
+              { "size": "Small", "price": 1300 },
+              { "size": "Medium", "price": 1800 },
+              { "size": "Large", "price": 2300 }
+            ],
+            "image": "https://happypetproducts.com/wp-content/uploads/2024/07/Your-paragraph-text-5.png",
+            "features": ["Easy to clean", "Non-slip", "Soft texture"]
+          },
+          {
+            "id": 3,
+            "name": "Bloom Ball",
+            "description": "Interactive pet ball using ETPU technology for durability and fun.",
+            "description2": "Happypet presents our NEWEST Bloom Football🟠\nMADE WITH E-TPU TECHNOLOGY (EXPANDED THERMOPLASTIC POLYURETHAN E)\n\nBLOOM dog balls are non-toxic, made of food-grade, durable material that won’t break no matter how hard your dog throws them. The balls will last for any length of time for your dog’s powerful jaws. Dog chew toy balls are durable yet very lightweight, highly elastic that could even be floated on water and easily cleaned.\n\nFeatures of E-TPU:\n🟠 Super response: the bounce rate could be up to 63%.\n🟠Low density: 100-200kg/m3.\n🟠High elasticity and softness even at low temperature.\n 🟠Very low abrasion resistance\n 🟠High bending resistance\n 🟠Eco-friendly material : All raw materials and processes are 100% environment-friendly.",
+            "prices": [
+              { "size": "Small", "price": 130 },
+              { "size": "Medium", "price": 180 },
+              { "size": "Large", "price": 230 }
+            ],
+            "image": "https://happypetproducts.com/wp-content/uploads/2024/07/Your-paragraph-text-15.png",
+            "features": ["Durable", "Bouncy", "Lightweight"]
+          },
+          {
+            "id": 4,
+            "name": "Bamboo De-shedding Brush for Pets",
+            "description": "Rolling cat toy for stimulating playtime and exercise.",
+            "description2": "This De-shedding Brush is the best choice for grooming, combing, and detangling your furbuddies’ coats and making it shiny and glossy!",
+            "prices": [
+              { "size": "Small", "price": 500 },
+              { "size": "Medium", "price": 600 },
+              { "size": "Large", "price": 700 }
+            ],
+            "image": "https://happypetproducts.com/wp-content/uploads/2024/08/Your-paragraph-text-9.png",
+            "features": ["Interactive", "Lightweight", "Portable"]
+          },
+          {
+            "id": 5,
+            "name": "Dental Wipes",
+            "description": "Wipes that reduce plaque and freshen breath for daily use.",
+            "description2": "This De-shedding Brush is the best choice for grooming, combing, and detangling your furbuddies’ coats and making it shiny and glossy!",  
+            "prices": [
+              { "size": "Small", "price": 560 },
+              { "size": "Medium", "price": 690 },
+              { "size": "Large", "price": 790 }
+            ],
+            "image": "https://happypetproducts.com/wp-content/uploads/2022/08/WIPES-2.png",
+            "features": ["Natural ingredients", "Easy to use", "Removes plaque"]
+          }
+        ]
+      },
+      {
+        "category": "Health",
+        "products": [
+          {
+            "id" : 6,
+            "name": "Omega-3 Fish Oil Supplement",
+            "description": "Supplement for skin, coat, and joint health with high-quality fish oil.",
+            "description2": "Nutri-Vet Fish Oil Soft Gels for dogs are the most convenient way to provide your pup with a boost in essential nutrients that support skin and coat health.\n Formulated as a tasty treat for your dog, Nutri-Vet Fish Oil Soft Gels provide 300mg of Omega 3 fatty acids plus Vitamins A, D, and E!",
+            "prices": [
+              { "size": "30 Softgels", "price": 350},
+              { "size": "60 Softgels", "price": 750},
+              { "size": "100 Softgels", "price": 1250 }
+            ],
+            "image": "https://nutri-vet.com/cdn/shop/files/99901_NV_100ct_Fish_Oil_Dogs_Front.png?v=1710171929&width=550",
+            "features": ["Rich in Omega-3", "Easy to mix", "Wild-caught fish source"]
+          },
+          {
+            "id":7,
+            "name": "Multivitamin Chews",
+            "description": "Daily multivitamin chews for complete pet wellness.",
+            "description2" : "BN Chews are easy-to-take, multivitamins containing over 27 vitamins and minerals, designed to support your general health and well-being. Available in 2 fruity flavours, these multivitamin chewable tablets are ideal for those who dislike or are unable to swallow entire pills or capsules.",
+            "prices": [
+              { "size": "30 Chews", "price": 350},
+              { "size": "60 Chews", "price": 750},
+              { "size": "100 Chews", "price": 1250 }
+            ],
+            "image": "imgs/multi.png",
+            "features": ["Tasty", "Immune support", "Complete nutrients"]
+          },
+          {
+            "id": 8,
+            "name": "Calming Chews",
+            "description": "Soothing chews to relieve pet anxiety and stress.",
+            "description2" : "Calm now comes in a tasty bite-sized bit!  ThunderWunders® Dog Calming Chews contain ingredients that help promote rest and relaxation for your dog, so you can spend less time struggling and more time snuggling. Packed full of thiamine, L-Tryptophan, melatonin, and other calming ingredients, our chews help your dog relax in situations that may cause them stress. Over 85% of users recommend ThunderWunders® for general stress issues in their dogs*.",
+            "prices": [
+              { "size": "30 Chews", "price": 300},
+              { "size": "60 Chews", "price": 700},
+              { "size": "100 Chews", "price": 1200 }
+            ],
+            "image": "https://m.media-amazon.com/images/I/611hIxkdWEL._AC_SL1080_.jpg",
+            "features": ["Non-drowsy", "Natural herbs", "Daily use safe"]
+          },
+          {
+            "id" : 9,
+            "name": "Skin and Coat Supplement",
+            "description": "Nutrient supplement for a shiny coat and healthy skin.",
+            "description2" : "Our Skin and Coat Supplement supports a healthy, shiny coat and nourishes your pet's skin with essential Omega-6 fatty acids, vitamins, and minerals. Vet-recommended and made with all-natural ingredients, it helps reduce dryness, shedding, and irritation, keeping your pet looking and feeling their best. Perfect for daily use and suitable for all breeds and ages.",
+            "prices": [
+              { "size": "", "price": 1599 }
+            ],
+            "image": "https://i0.wp.com/www.caminadepet.com/wp-content/uploads/2023/05/Brio-Supplements-Skin-and-Coat-Dog.png?fit=500%2C500&ssl=1",
+            "features": ["Contains Omega-6", "Vet-recommended", "All-natural"]
+          },
+          {
+            "id" : 10,
+            "name": "Immune Booster Drops",
+            "description": "Antioxidant-rich drops to boost pet immunity.",
+            "description2": "Our Immune Booster Drops are specially formulated to enhance your pet's natural defense system. Packed with essential vitamins, antioxidants, and herbal extracts, these drops support overall health, promote energy, and strengthen immunity against common illnesses. Easy to administer and suitable for pets of all sizes, they’re a daily dose of wellness for your furry friend.",
+            "prices": [
+              { "size": "30ml",  "price": 150 },
+              { "size": "60ml",  "price": 250 },
+              { "size": "100ml",  "price": 350 }
+            ],
+            "image": "imgs/immune.png",
+            "features": ["Easy to mix", "Natural antioxidants", "Vet-approved"]
+          }
+        ]
+      },
+      {
+        "category": "Grooming",
+        "products": [
+          {
+            "id": 11,
+            "name": "BAMBOO Ball pin Brush",
+            "description": "Soft-bristle brush for regular grooming to reduce shedding and detangle fur.",
+            "description2": "The best choice for grooming, combing, and detangling is here! The Ergonomic antis-static handle with corrosion-resistant stainless-steel bristles and rotating teeth provides the best grooming comfort.\n\n🌱100% Eco-Friendly and Natural Bamboo wood, FSC certified.\n🌱Designed in Belgium!",
+            "prices": [
+              { "size": "16 Teeth",  "price": 350 },
+              { "size": "31 Teeth",  "price": 450 }
+            ],
+            "image": "https://happypetproducts.com/wp-content/uploads/2023/07/BALL-PIN-BRUSH_PNG.png",
+            "features": ["Ergonomic handle", "Gentle on skin", "Suitable for all coats"]
+          },
+          {
+            "id": 12,
+            "name": "Pet Nail Clipper",
+            "description": "Easy-to-use nail clipper with safety guard for pets of all sizes.",
+            "description2": "This easy-to-use pet nail clipper features a safety guard to prevent over-cutting, making it ideal for pets of all sizes. Its ergonomic, non-slip handle provides a secure grip, ensuring comfort and control during grooming. Perfect for keeping your pet’s nails trimmed safely and stress-free.",
+            "prices": [
+              { "size": "", "price": 753 }
+            ],
+            "image": "imgs/nail.png", 
+            "features": ["Stainless steel", "Non-slip grip", "Safety stop"]
+          },
+          {
+            "id": 13,
+            "name": "FURminator deShedding Tool",
+            "description": "Brush that reduces shedding by removing loose fur, ideal for thick coats.",
+          "description2": "Take your grooming routine into your own hands by implementing the FURminator® Ultimate Hair Reduction System™: Brush, deShed, Bathe and Maintain for grooming confidence in the comfort of your own home. Our deShedding tools, grooming tools and hair solutions offer a grooming regimen catered to any dog or cat.",
+            "prices": [
+              { "size": "", "price": 599 }
+            ],
+            "image": "imgs/fur.png",
+            "features": ["Ergonomic handle", "Reduces shedding", "Gentle on coat"]
+          },
+          {
+            "id": 14,
+            "name": "Bright White Shampoo",
+            "description": "Hypoallergenic pet shampoo, perfect for sensitive skin.",
+            "description2": "Over time, white coats on dogs become dingy and dull.  Food, dirt and even pee cause stains that stand out on white or light-colored fur.  Restore the striking beauty of dogs with white or light-colored fur with the Happy Pet Bright White Shampoo.\n\nThe BRIGHT WHITE SHAMPOO does not just cleans, deodorizes, hydrates and brightens up your dog’s fur using natural ingredients … no harsh chemicals or bleaching agents and no dyes or optical brighteners. \n\nIt contains INORGANIC SALT to wash away the build-up and stain. \nIt contains COMPLEX ESSENTIAL OILS that provide nourishment and hydration.\nIt contains PERSIMMON EXTRACT that removes and neutralizes pet odor. \nIt comes in LAVENDER SCENT for its soothing benefits.",
+            "prices": [
+              { "size": "", "price": 699 }
+            ],
+            "image": "https://happypetproducts.com/wp-content/uploads/2022/08/BW-1.png",
+            "features": ["Hypoallergenic", "No harsh chemicals", "Fragrance-free"]
+          },
+          {
+            "id": 15,
+            "name": "Fur Baby Paw Balm",
+            "description": "Moisturizing paw balm for dry or cracked paws.",
+            "description2": "Fur Baby Paw Balm moisturizes and protects your pet’s paws, helping to heal dry or cracked skin. Made with natural ingredients, it provides comfort and relief for pets of all sizes. Perfect for year-round paw care.",
+            "prices": [
+              { "size": "", "price": 109 }
+            ],
+            "image": "imgs/paw.png",
+            "features": ["All-natural", "Non-toxic", "Soothing effect"]
+          }
+        ]
+      },
+    {
+      "category": "Cage",
+      "products": [
+        {
+          "id": 16,
+          "name": "Collapsible Pet Cage",
+          "description": "Lightweight and collapsible pet cage for travel or home use.",
+          "description2": "The Collapsible Pet Cage is a durable, foldable solution for your pet's comfort and safety. It provides proper ventilation and visibility, ensuring a cozy space for your pet. Ideal for travel, training, or home use, it’s easy to store when not needed.",
+          "prices": [
+            { "size": "S-35x26x34cm",  "price": 179 },
+            { "size": "M-50x37x40cm",  "price": 365 }
+          ],
+          "image": "imgs/cage1.png",
+          "features": ["Portable", "Easy to clean", "Sturdy frame"]
+        },
+        {
+          "id": 17,
+          "name": "Bird Cage",
+          "description": "Spacious bird cage with perches and feeders, ideal for small birds.",
+          "description2": "The Bird Cage Set includes everything you need to create a comfortable and safe environment for your feathered friend. It features a spacious cage with multiple perches, feeders, and toys to keep your bird entertained. Perfect for small to medium-sized birds, it’s easy to clean and provides ample room for your pet to move and play.",
+          "prices": [
+            { "size": "", "price": 4000 }
+          ],
+          "image": "imgs/cage2.png",
+          "features": ["Easy access door", "Removable tray", "Secure locking system"]
+        },
+        {
+          "id": 18,
+          "name": "Hamster Cage with Wheel",
+          "description": "Compact cage with an exercise wheel, ideal for small pets.",
+          "description2": "The Bird Cage Set includes everything you need to create a comfortable and safe environment for your feathered friend. It features a spacious cage with multiple perches, feeders, and toys to keep your bird entertained. Perfect for small to medium-sized birds, it’s easy to clean and provides ample room for your pet to move and play.",
+          "prices": [
+            { "size": "", "price": 1399 }
+          ],
+          "image": "imgs/cage5.png",
+          "features": ["Easy to clean", "Ventilated design", "Portable"]
+        },
+        {
+          "id": 19,
+          "name": "Rabbit Hutch",
+          "description": "Spacious wooden hutch for rabbits, with two levels for added comfort.",
+          "description2": "The Rabbit Hutch provides a safe and spacious home for your rabbit, both indoors and outdoors. With multiple levels and a secure design, it offers plenty of room for your pet to hop, play, and rest. The hutch is easy to clean, ensuring your rabbit stays comfortable and happy.",
+          "prices": [
+            { "size": "", "price": 4099 }
+          ],
+          "image": "imgs/cage3.png",
+          "features": ["Weather-resistant", "Spacious", "Easy to assemble"]
+        },
+        {
+          "id": 20,
+          "name": "Guinea Pig Cage",
+          "description": "Cage specifically designed for guinea pigs, with a cozy hideout area.",
+          "description2":"The Guinea Pig Cage offers a spacious and secure environment for your guinea pig to roam and relax. With ample space, easy-to-clean features, and a durable design, it ensures your pet's comfort and safety. Perfect for indoor use, it provides your guinea pig with plenty of room to explore and enjoy.",
+          "prices": [
+            { "size": "77x42x48",  "price": 3279 }
+          ],
+          "image": "imgs/cage4.png",
+          "features": ["Spacious", "Ventilated", "Includes water bottle"]
+        }
+      ]
+    },
+    {
+      "category": "Kibbles",
+      "products": [
+        {
+          "id": 21,
+          "name": "Nature’s Recipe Grain Free Dry Dog Food",
+          "description": "High-protein kibble for dogs, formulated without grains for easy digestion.",
+          "description2": "Nature’s Recipe Grain-Free Chicken, Sweet Potato & Pumpkin Recipe Dry Dog Food is made with chicken as the first ingredient for a protein-packed meal. It’s free from grains, making it gentle on sensitive stomachs. The added sweet potatoes and pumpkin support healthy digestion and overall well-being.",
+          "prices": [
+            { "size": "1Kg",  "price": 215 },
+            { "size": "5Kg",  "price": 1075 },
+            { "size": "10Kg",  "price": 2150 }
+          ],
+          "image": "https://www.naturesrecipe.com/wp-content/uploads/2024/04/Natures-Recipe-Chicken-Sweet-Potato-Pumpkin-Grain-Free-Dry-Dog-Food-4LB-1536x1536.png",
+          "features": ["Rich in protein", "No fillers", "Supports muscle growth"]
+        },
+        {
+          "id": 22,
+          "name": "Happypet MiquiMeow",
+          "description": "Kibble for cats with essential nutrients for a healthy coat and immune system.",
+          "description2": "Meet MiquiMeow: where ocean fish flavor meets purr-fection! Packed with:\n\n– taurine for healthy eyes, heart, and digestion\n– plus dietary fiber to prevent hairballs\n– Omega 3 & 6 for a glossy coat\n– essential vitamins to boost immunity\n\nThis is guaranteed to be your feline friend’s new favorite!",
+          "prices": [
+            { "size": "1Kg",  "price": 215 },
+            { "size": "5Kg",  "price": 1075 },
+            { "size": "10Kg",  "price": 2150 }
+          ],
+          "image": "https://happypetproducts.com/wp-content/uploads/2024/07/MIQUI-2.png",
+          "features": ["Balanced nutrients", "Rich in Omega-3", "Promotes dental health"]
+        },
+        {
+          "id": 23,
+          "name": "Happypet Puppy Kibbles",
+          "description": "Nutrient-rich kibble for growing puppies to support bone and muscle growth.",
+          "description2": "The Puppy Kibble is made with the Happy Pet active formula\n \nContains good sources of highly digestible carbohydrates\nBite-sized kibbles ideal for smaller jaws\nWith Omega 3 & 6 Fatty Acids to promote healthy skin and shiny coat\nContains probiotics and prebiotics to support overall digestive health\nWith essential vitamins, minerals, probiotics and antioxidants to promote strong immune system\nFrom animal-based protein that helps develop strong muscles\nContains balanced Calcium: Phosphorus ratio for proper bone and teeth development from naturally sourced animal protein\nJust the good quality raw materials for your puppy",
+          "prices": [
+            { "size": "1.5Kg",  "price": 265 },
+            { "size": "5Kg",  "price": 850 },
+            { "size": "20Kg",  "price": 3000 }
+          ],
+          "image": "https://happypetproducts.com/wp-content/uploads/2022/06/3-1.png",
+          "features": ["High in protein", "Rich in calcium", "Easy to digest"]
+        },
+        {
+          "id": 24,
+          "name": "Happypet Senior Kibbles",
+          "description": "Kibble formulated for older dogs to support joint health and digestion.",
+          "description2": "The Senior Kibble is made with the Happy Pet golden plus formula\n\nWith L-Carnitine to help maintain lean body mass and optimize fat break down; counter muscle atrophy\nContains balanced Calcium:Phosphorus ratio for strong teeth and healthy bone structure from naturally sourced animal protein\nWith guaranteed level of Glucosamine to help protect, support and repair joints and cartilages during the aging process\nContains probiotics and prebiotics to support overall digestive health\nWith essential vitamins, minerals, probiotics and antioxidants to support strong immune system\nWith Omega 3 & 6 Fatty Acids to promote healthy skin and shiny coat\nJust the good quality raw materials for your loyal companion",
+          "prices": [
+            { "size": "1.5Kg",  "price": 230 },
+            { "size": "5Kg",  "price": 730 },
+            { "size": "20Kg",  "price": 2250 }
+          ],
+          "image": "https://happypetproducts.com/wp-content/uploads/2022/06/5-1.png",
+          "features": ["Glucosamine added", "Low calorie", "Joint support"]
+        }
+      ]
+    },
+    
+    {
+      "category": "Toys",
+      "products": [
+        {
+          "id": 30,
+          "name": "NATURAL Roll & Ball Cat Toy",
+          "description": "More fun for your cats with our eco-friendly toys!",
+          "description2": "The NATURAL Roll & Ball Cat Toy is designed to engage your cat in active play and exercise. Made from natural materials, it’s safe and durable, providing hours of entertainment. Perfect for encouraging your cat’s hunting instincts, it rolls and bounces, keeping them entertained and active.",
+          "prices": [
+            {"size": "" , "price": 199}
+          ],
+          "image": "https://happypetproducts.com/wp-content/uploads/2024/07/Your-paragraph-text-14.png",
+          "features": ["Durable", "Safe material", "Bright colors"]
+        },
+        {
+          "id": 31,
+          "name": "COTO Grey Bone 19cm",
+          "description": "Rope toy for dogs that also helps clean teeth.",
+          "description2": "COTO ropes are made of high-quality natural cotton, a durable and environmentally friendly material that is safe, non-toxic and almost indestructible.\nThey are excellent for retrieving, tug-of-war or simple chewing.\nThey help promote good health, clean teeth and improve mental development, preventing them from feeling lonely, stressed or low energy. They are great for dogs of all ages.",
+          "prices": [
+            { "size": "", "price": 299 }
+          ],
+          "image": "https://happypetproducts.com/wp-content/uploads/2024/06/3.png",
+          "features": ["Non-toxic", "Helps dental health", "Tug-of-war ready"]
+        },
+        {
+          "id": 32,
+          "name": "COTO Grey Loop Bar 34cm",
+          "description": "COTO ropes are made of high-quality natural cotton, a durable and environmentally friendly material that is safe, non-toxic and almost indestructible..",
+          "description2":"They are excellent for retrieving, tug-of-war or simple chewing.\nThey help promote good health, clean teeth and improve mental development, preventing them from feeling lonely, stressed or low energy. They are great for dogs of all ages.",
+          "prices": [
+            { "size": "", "price": 399 }
+          ],
+          "image": "https://happypetproducts.com/wp-content/uploads/2024/06/2.png",
+          "features": ["Entertaining", "Battery operated", "Safe for pets"]
+        }
+        
+      ]
+    }
+  ]
+  
+}
+
